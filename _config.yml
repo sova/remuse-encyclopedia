@@ -6,4 +6,4 @@ url: "https://sova.github.io"
 collections:
   bands:
     output: true
-    permalink: /bands/:name/
+    permalink: /:collection/:name/
