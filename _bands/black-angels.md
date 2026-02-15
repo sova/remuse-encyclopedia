@@ -31,3 +31,9 @@ Washed out psych rock. Heavy statiochromia throughout their catalog.
 </div>
 
 Your thoughts here.
+
+<div class="song-header">
+  <span class="album">Death Song</span> — <span class="song">Currency</span>
+</div>
+
+Your thoughts here.

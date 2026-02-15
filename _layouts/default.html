@@ -192,10 +192,11 @@
     </div>
     
     {% if page.collection == 'bands' %}
-    <div class="glossary">
-      {% include glossary.html %}
-    </div>
-    {% endif %}
+<div class="glossary">
+  {% assign glossary_page = site.pages | where: "title", "Glossary" | first %}
+  {{ glossary_page.content }}
+</div>
+{% endif %}
 
     <footer style="margin-top: 60px; padding-top: 30px; border-top: 1px solid #eee; text-align: center; font-size: 0.9em; color: #666;">
      <a href="https://www.youtube.com/@REMUSE777" target="_blank" style="color: #0066cc;">REMUSE on YouTube</a>
