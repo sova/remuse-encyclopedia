@@ -2,18 +2,27 @@
 <html>
 <head>
   <title>{{ page.title }} - {{ site.title }}</title>
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <style>
-   body {
-     font-family: Helvetica, Arial, sans-serif;
-   }
- </style>
+    body {
+      font-family: Helvetica, Arial, sans-serif;
+    }
+  </style>
 </head>
 <body>
+  <nav>
+    <a href="{{ site.baseurl }}/">Home</a> | 
+    <a href="{{ site.baseurl }}/glossary.html">Glossary</a> | 
+    <a href="{{ site.baseurl }}/tags.html">Tags</a>
+  </nav>
+  
   <h1>{{ site.title }}</h1>
   {{ content }}
-
+  
   {% if page.collection == 'bands' %}
-   {% include glossary.html %}
+    {% include glossary.html %}
   {% endif %}
 </body>
 </html>
