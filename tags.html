@@ -3,11 +3,22 @@ layout: default
 title: Tags
 ---
 
-{% for tag in site.tags %}
-<h3>{{ tag[0] }}</h3>
+{% assign tags = "" | split: "" %}
+{% for band in site.bands %}
+  {% for tag in band.tags %}
+    {% unless tags contains tag %}
+      {% assign tags = tags | push: tag %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+{% for tag in tags %}
+<h3>{{ tag }}</h3>
 <ul>
-{% for item in tag[1] %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% for band in site.bands %}
+  {% if band.tags contains tag %}
+    <li><a href="{{ site.baseurl }}{{ band.url }}">{{ band.title }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
 {% endfor %}
