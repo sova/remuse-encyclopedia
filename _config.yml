@@ -1,8 +1,9 @@
 title: Remuse
 description: Music encyclopedia
+baseurl: "/remuse-encyclopedia"
 url: "https://remuse.co"
 
 collections:
   bands:
     output: true
-    permalink: /remuse-encyclopedia/bands/:name/
+    permalink: /bands/:name/
