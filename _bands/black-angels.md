@@ -4,7 +4,6 @@ title: "Black Angels"
 tags: [psych-rock, garage, statiochromia]
 ---
 
-# {{ page.title }}
 # The Black Angels
 
 Washed out psych rock. Heavy statiochromia throughout their catalog.
@@ -24,3 +23,11 @@ Washed out psych rock. Heavy statiochromia throughout their catalog.
 - *Clear Lake Forest* EP (2014)
 - *Death Song* (2017)
 - *Wilderness of Mirrors* (2022)
+
+## Songs
+
+<div class="song-header">
+  <span class="album">Phosphene Dream</span> — <span class="song">The Sniper</span>
+</div>
+
+Your thoughts here.
