@@ -193,9 +193,9 @@
     
     {% if page.collection == 'bands' %}
     <div class="glossary">
-      {% assign glossary_page = site.pages | where: "title", "Glossary" | first %}
       <h2>Glossary</h2>
-      {{ glossary_page.content }}
+      {% assign glossary_page = site.pages | where: "title", "Glossary" | first %}
+      {{ glossary_page.content | markdownify }}
     </div>
     {% endif %}
 
