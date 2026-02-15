@@ -1,0 +1,8 @@
+title: Remuse
+description: Music encyclopedia
+url: "https://remuse.co"
+
+collections:
+  bands:
+    output: true
+    permalink: /bands/:name/
