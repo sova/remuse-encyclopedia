@@ -1,7 +1,7 @@
 title: Remuse
 description: Music encyclopedia
 baseurl: "/remuse-encyclopedia"
-url: "https://remuse.co"
+url: "https://sova.github.io"
 
 collections:
   bands:
