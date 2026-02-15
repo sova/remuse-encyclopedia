@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-# Remuse
-
-Music encyclopedia and reviews.
+Music encyclopedia, shows, reviews.
 
 {% for band in site.bands %}
 - [{{ band.title }}]({{ site.baseurl }}{{ band.url }})
