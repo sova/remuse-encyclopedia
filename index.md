@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home       
+title: Home
 ---
 
 # Remuse
@@ -8,5 +8,5 @@ title: Home
 Music encyclopedia and reviews.
 
 {% for band in site.bands %}
-- [{{ band.title }}]({{ band.url }})
+- [{{ band.title }}]({{ site.baseurl }}{{ band.url }})
 {% endfor %}
