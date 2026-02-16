@@ -23,6 +23,12 @@ Formed from the ashes of Carissa's Wierd. "The Funeral" became ubiquitous in mid
 ## Discography
 
 <div class="song-header">
+  <span class="album">Everything All the Time</span> — <span class="song">The First Song</span>
+</div>
+
+Strong, melodic guitar patterns dance lightly like snow in the lights of crashing cymbals and hi-hats as steady backdrop.  The vocals summon a sense of grace.  Dynamic blooms and blossomings bring us back again and again to smooth saunter legato, the juxtaposition of bass guitar with higher vocals fill out the sonic vertical, tweezed guitar and kick drum driven rebuilds add molten stone to fire.
+
+<div class="song-header">
   <span class="album">Everything All the Time</span> — <span class="song">The Funeral</span>
 </div>
 
