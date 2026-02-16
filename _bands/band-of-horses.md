@@ -20,7 +20,7 @@ Former members include Mat Brooke (2004-06), Tyler Ramsey (2007-17), Bill Reynol
 ## Notes
 Formed from the ashes of Carissa's Wierd. "The Funeral" became ubiquitous in mid-2000s TV/film. Sound evokes wide-open spaces and melancholy.
 
-## Discography
+## Songs To Listen To
 
 <div class="song-header">
   <span class="album">Everything All the Time</span> — <span class="song">The First Song</span>
@@ -33,3 +33,12 @@ Strong, melodic guitar patterns dance lightly like snow in the lights of crashin
 </div>
 
 Classic track, intro guitar sliding notes sound like mini purring kittens.  Captures an era, a moment in time, it reflects the zeitgeist of the period in which it was released (March 2006), vocals softly layer until we bust into a rock beat slowly lurching.  "At every occasion, I'll be ready for the funeral."  The shattering of cymbals and hi-hats makes a spatial sonic tsunami that effortlessly builds on itself, like a staccato roll of thunder, with melodic guitar tones guiding.
+
+
+## Discography
+- *Everything All the Time* (2006)
+- *Cease to Begin* (2007)
+- *Infinite Arms* (2010) - Grammy nominated
+- *Mirage Rock* (2012)
+- *Why Are You OK* (2016)
+- *Things Are Great* (2022)
