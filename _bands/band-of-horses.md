@@ -26,7 +26,7 @@ Formed from the ashes of Carissa's Wierd. "The Funeral" became ubiquitous in mid
   <span class="album">Everything All the Time</span> — <span class="song">The Funeral</span>
 </div>
 
-Your thoughts on The Funeral here.
+Classic track, intro guitar sliding notes sound like mini purring kittens.  Captures an era, a moment in time, it reflects the zeitgeist of the period in which it was released (March 2006), vocals softly layer until we bust into a rock beat slowly lurching.  "At every occasion, I'll be ready for the funeral."  The shattering of cymbals and hi-hats makes a spatial sonic tsunami that effortlessly builds on itself, like a staccato roll of thunder, with melodic guitar tones guiding.
 
 <div class="song-header">
   <span class="album">Everything All the Time</span> — <span class="song">The Great Salt Lake</span>
